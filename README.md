@@ -27,6 +27,10 @@
 - Contribute to open-source projects
 - Prepare for software internships
 
+## 📈 Contribution Graph
+
+[![Mayuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuka25&theme=github-compact)](https://github.com/Mayuka25)
+
 ## 📫 Connect with Me
 - GitHub: https://github.com/Mayuka25
 - LinkedIn: *(https://www.linkedin.com/in/mayuka-m-9033043b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
