@@ -33,7 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![Mayuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuka25&show_icons=true&theme=github_dark&cache_seconds=1800)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayuka25&theme=github_dark"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuka25&layout=compact&theme=github_dark&cache_seconds=1800)
 
