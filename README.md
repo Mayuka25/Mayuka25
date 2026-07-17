@@ -25,7 +25,11 @@
 - Strengthen Data Structures & Algorithms
 - Build more real-world projects
 - Contribute to open-source projects
-- Prepare for software internships
+- Prepare for software internships.
+
+  ## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mayuka25&theme=tokyonight&hide_border=true)
 
 ## 📊 GitHub Stats
 
