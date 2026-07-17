@@ -27,6 +27,12 @@
 - Contribute to open-source projects
 - Prepare for software internships
 
+## 📊 GitHub Stats
+
+![Mayuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuka25&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuka25&layout=compact&theme=tokyonight&hide_border=true)
+
 ## 📈 Contribution Graph
 
 [![Mayuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuka25&theme=github-compact)](https://github.com/Mayuka25)
