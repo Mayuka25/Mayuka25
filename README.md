@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mayuka M 👋
 
-<!--
-**Mayuka25/Mayuka25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering (ECE) Student
 
-Here are some ideas to get you started:
+##  About Me
+- 🌱 Currently learning **Java** and **Data Structures**
+- 💻 Interested in **Software Development**, **AI**, and **Web Development**
+- 🤖 Exploring **Embedded Systems** and **IoT**
+- 🚀 Passionate about building projects and improving my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- C
+- C++
+- Python 
+- HTMl
+- Css
+- Git & GitHub
+
+## 📂 Featured Projects
+- 🚀 LinguaBot: A multilingual AI assistant for equitable campus information access. 
+
+## 🎯 Current Goals
+- Strengthen Data Structures & Algorithms
+- Build more real-world projects
+- Contribute to open-source projects
+- Prepare for software internships
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Mayuka25
+- LinkedIn: *(https://www.linkedin.com/in/mayuka-m-9033043b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+- Mail: mayukamani25@gmail.com
