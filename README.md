@@ -27,9 +27,6 @@
 - Contribute to open-source projects
 - Prepare for software internships
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuka25&show_icons=true&theme=default)
-
 ## 📫 Connect with Me
 - GitHub: https://github.com/Mayuka25
 - LinkedIn: *(https://www.linkedin.com/in/mayuka-m-9033043b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
