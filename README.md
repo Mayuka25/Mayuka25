@@ -6,7 +6,8 @@
 - 🌱 Currently learning **Java** and **Data Structures**
 - 💻 Interested in **Software Development**, **AI**, and **Web Development**
 - 🤖 Exploring **Embedded Systems** and **IoT**
-- 🚀 Passionate about building projects and improving my coding skills
+- 🚀 Passionate about building projects and improving my coding skill
+- 🤝 Open to learning, collaborating, and contributing to projects
 
 ## 🛠️ Tech Stack
 - Java
@@ -26,7 +27,14 @@
 - Contribute to open-source projects
 - Prepare for software internships
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuka25&show_icons=true&theme=default)
+
 ## 📫 Connect with Me
 - GitHub: https://github.com/Mayuka25
 - LinkedIn: *(https://www.linkedin.com/in/mayuka-m-9033043b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 - Mail: mayukamani25@gmail.com
+
+
+
+⭐ *"Learning one commit at a time."*
