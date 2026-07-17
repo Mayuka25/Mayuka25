@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![Mayuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuka25&show_icons=true&theme=tokyonight&hide_border=true)
+![Mayuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayuka25&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuka25&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuka25&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ## 📈 Contribution Graph
 
