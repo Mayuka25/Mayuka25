@@ -33,10 +33,13 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Summary
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayuka25&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuka25&layout=compact&theme=github_dark&cache_seconds=1800)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayuka25&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayuka25&theme=github_dark)
 ## 📈 Contribution Graph
 
 [![Mayuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuka25&theme=github-compact)](https://github.com/Mayuka25)
