@@ -31,8 +31,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mayuka25&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayuka25&theme=github_dark)
@@ -40,6 +38,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayuka25&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayuka25&theme=github_dark)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mayuka25&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📈 Contribution Graph
 
 [![Mayuka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuka25&theme=github-compact)](https://github.com/Mayuka25)
